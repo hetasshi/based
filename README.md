@@ -78,4 +78,3 @@ com.example.based
 
 Артём
 
-```
