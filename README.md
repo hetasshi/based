@@ -55,13 +55,9 @@ com.example.based
 
 1. Клонировать репозиторий:
 
-   ```bash
+   ```bash 
+    git clone [https://github.com/hetasshi/based.git](https://github.com/hetasshi/based.git)
    ```
-
-git clone [https://github.com/hetasshi/based.git](https://github.com/hetasshi/based.git)
-cd based
-
-```
 2. Открыть проект в Android Studio.
 3. При необходимости указать путь к Android SDK (в `local.properties`).
 4. Нажать **Run ▶** для сборки и запуска.
@@ -80,6 +76,6 @@ cd based
 
 ---
 
-Автор: hetasshi
+Артём
 
 ```
